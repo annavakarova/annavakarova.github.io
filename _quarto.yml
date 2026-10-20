@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Anna Vakarova"
+  description: "Anna Vakarova — PhD Candidate in Economics at UC Berkeley. Research in microeconomic theory and fair division."
+  site-url: "https://YOUR-USERNAME.github.io/annavakarova/"
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+    right:
+      - href: files/cv.pdf
+        text: CV
+  page-footer:
+    center: "© Anna Vakarova"
+  search: false
+  open-graph: true
+  twitter-card: true
+  repo-actions: []
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    link-external-newwindow: true

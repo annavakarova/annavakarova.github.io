@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:wght@400;700&display=swap');
+:root { --ink: #243040; --accent: #315d7c; --muted: #687583; }
+body { font-family: 'DM Sans', sans-serif; color: var(--ink); background: #fff; font-size: 1.02rem; line-height: 1.8; }
+h1,h2,h3,.navbar-brand { font-family: 'Libre Baskerville', Georgia, serif; letter-spacing: -.025em; }
+h1 { font-size: clamp(2.1rem,4vw,3rem); }
+h2 { font-size: 1.45rem; margin-top: 2.8rem; }
+h3 { font-size: 1.12rem; }
+a { color: var(--accent); text-underline-offset: 3px; }
+.navbar { border-bottom: 1px solid #e7ebee; }
+.navbar-brand { font-size: 1.05rem; }
+#quarto-content { max-width: 1050px; margin: auto; }
+main.content { max-width: 890px; margin: 0 auto; padding: 1.5rem 1rem 4rem; }
+.hero { display: grid; grid-template-columns: minmax(0, 1.65fr) minmax(220px, 1fr); gap: 3.5rem; align-items: center; padding: 2.8rem 0 2rem; }
+.hero h1 { margin: .5rem 0 1.1rem; }
+.hero-copy p { max-width: 37rem; }
+.eyebrow { font-size: .76rem; letter-spacing: .15em; color: var(--muted); font-weight: 700; }
+.hero-image img { width: 100%; aspect-ratio: 4/5; object-fit: cover; border-radius: 3px; }
+.primary-link { font-weight: 700; }
+@media (max-width: 720px) { .hero { grid-template-columns: 1fr; gap: 1.5rem; padding-top: 1.5rem; } .hero-image { grid-row: 1; max-width: 230px; } }

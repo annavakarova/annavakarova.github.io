@@ -1,0 +1,18 @@
+---
+title: "Research"
+---
+
+## Job Market Paper
+
+### Envy-Free and Efficient Allocation in General Environments
+
+*Working title — replace with the exact title from your paper.*
+
+I investigate existence and computation of envy-free and weakly Pareto-efficient allocations in general allocation environments, with applications to divisible, indivisible, and dynamic allocation problems.
+
+**Paper:** PDF link coming soon.  
+**Slides:** Link coming soon.
+
+## Other Working Papers
+
+Add your three working papers here, each with its exact title, coauthors (if any), a short abstract, and a PDF link.

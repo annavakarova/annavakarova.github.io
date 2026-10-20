@@ -1,0 +1,32 @@
+---
+title: "Anna Vakarova"
+page-layout: full
+---
+
+::: {.hero}
+::: {.hero-copy}
+<span class="eyebrow">MICROECONOMIC THEORY</span>
+
+# Anna Vakarova
+
+**PhD Candidate in Economics**  
+University of California, Berkeley
+
+I am an economist working in microeconomic theory, with research interests in fair division, allocation, and economic theory.
+
+My job market paper studies the existence and computation of envy-free and efficient allocations in general allocation environments.
+
+[Research](research.qmd){.primary-link} &nbsp; [Curriculum Vitae](files/cv.pdf) &nbsp; [Email](mailto:YOUR-EMAIL@example.com)
+:::
+::: {.hero-image}
+![](images/profile-placeholder.svg){fig-alt="Placeholder for Anna Vakarova's portrait"}
+:::
+:::
+
+## Job Market Paper
+
+### Envy-Free and Efficient Allocation in General Environments
+
+I study the existence of envy-free and weakly Pareto-efficient allocations in general allocation environments, including settings with divisible and indivisible goods. The analysis develops an existence argument based on Sperner's lemma and an algorithmic approach to approximate fair and efficient allocation.
+
+[Read more about my research →](research.qmd)
