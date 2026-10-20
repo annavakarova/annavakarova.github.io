@@ -10,7 +10,7 @@ title: "Research"
 
 I investigate existence and computation of envy-free and weakly Pareto-efficient allocations in general allocation environments, with applications to divisible, indivisible, and dynamic allocation problems.
 
-**Paper:** PDF link coming soon.  
+**Paper:** [Download PDF](papers/jmp.pdf)  
 **Slides:** Link coming soon.
 
 ## Other Working Papers
