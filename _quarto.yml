@@ -5,7 +5,7 @@ project:
 website:
   title: "Anna Vakarova"
   description: "Anna Vakarova — PhD Candidate in Economics at UC Berkeley. Research in microeconomic theory and fair division."
-  site-url: "https://YOUR-USERNAME.github.io/annavakarova/"
+  site-url: "https://annavakarova.github.io/"
   navbar:
     background: light
     left:
