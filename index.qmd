@@ -1,7 +1,6 @@
 ---
 title: "Anna Vakarova"
 title-block-banner: false
-title-block-style: none
 page-layout: full
 ---
 
