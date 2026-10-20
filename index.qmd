@@ -19,7 +19,7 @@ My job market paper studies the existence and computation of envy-free and effic
 [Research](research.qmd){.primary-link} &nbsp; [Curriculum Vitae](files/cv.pdf) &nbsp; [Email](mailto:YOUR-EMAIL@example.com)
 :::
 ::: {.hero-image}
-![](images/profile-placeholder.svg){fig-alt="Placeholder for Anna Vakarova's portrait"}
+![](images/VakarovaProfPhoto.jpg){fig-alt="Placeholder for Anna Vakarova's portrait"}
 :::
 :::
 
