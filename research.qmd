@@ -13,6 +13,12 @@ I investigate existence and computation of envy-free and weakly Pareto-efficient
 **Paper:** [Download PDF](papers/jmp.pdf)  
 **Slides:** Link coming soon.
 
-## Other Working Papers
+## Working Papers
 
-Add your three working papers here, each with its exact title, coauthors (if any), a short abstract, and a PDF link.
+### Multi-Period House Allocation as a Public Good Problem
+
+[Download PDF](papers/house-allocation.pdf)
+
+### Implementation in the Cake-Cutting Problem
+
+[Download PDF](papers/cake-cutting.pdf)
