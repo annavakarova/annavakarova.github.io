@@ -1,3 +1,4 @@
+
 ---
 title: "Research"
 ---
@@ -6,9 +7,11 @@ title: "Research"
 
 ### Envy-Free and Efficient Allocation in General Environments
 
-*Working title — replace with the exact title from your paper.*
+*Abstract*: This paper develops a general approach to fair and efficient division that does not rely on equilibrium existence. First, I show that when the set of feasible allocations is compact, convex, and invariant to permutations of agents, and utilities are continuous and concave, there exists an allocation that is envy-free and weak Pareto efficient. The result applies to both problems with divisible resources and to indivisible-resource problems after appropriate convexification. In particular, it applies to problems with infinite-dimensional allocation spaces. The proof searches over Pareto weights and uses a regularized weighted welfare problem together with Sperner's lemma to identify weights at which all agents are simultaneously envy-free.
 
-I investigate existence and computation of envy-free and weakly Pareto-efficient allocations in general allocation environments, with applications to divisible, indivisible, and dynamic allocation problems.
+Second, the same construction yields a computational counterpart: in finite-dimensional environments, stopping the Sperner procedure at finite resolution produces approximately envy-free and approximately weak Pareto-efficient allocations in polynomial time for a fixed number of agents, under suitable computational-access assumptions.
+
+Third, I combine the infinite-dimensional existence result with the finite-dimensional algorithm to allocate fairly, efficiently, and dynamically. The problem of fairness and efficiency of dynamic allocations arises in transportation, infrastructure, natural-resource management, computing, and has been extensively studied in computer science and engineering. Yet these problems cannot be tackled by present-day economic fair-division techniques. I approximate infinite-horizon environments by increasingly rich finite-dimensional truncations and apply the algorithm to each truncation. The approximation error separates into an algorithmic component and a truncation component, which can be controlled independently. Because the computational cost grows polynomially with the finite-dimensional problem size for a fixed number of agents, this approximation scheme remains computationally meaningful as the horizon expands. Applications include transportation capacity, renewable-resource extraction rights, and computing capacity.
 
 **Paper:** [Download PDF](papers/jmp.pdf)  
 **Slides:** Link coming soon.
@@ -17,8 +20,18 @@ I investigate existence and computation of envy-free and weakly Pareto-efficient
 
 ### Multi-Period House Allocation as a Public Good Problem
 
+*Abstract*: We prove existence of envy-free and Pareto efficient allocation in a multi-period indivisible goods assignment problem. Since Birkoff-von-Neumann fails in this environment, the allocation problem cannot be reduced to individual-level consumption problem where total demand cannot exceed supply. Therefore, we have to treat economy-wide allocations as a public good. We provide a market-based implementation by showing that such an allocation can be supported as a Lindahl equilibrium. We then look at a large economy and show that for large enough economies, the incentives to misrepresent agents’ preferences vanish.
+
 [Download PDF](papers/house-allocation.pdf)
 
 ### Implementation in the Cake-Cutting Problem
 
+*Abstract*: I study the relationship between fractional cake allocations — partitions of unity — and lotteries over deterministic partitions. The project provides an implementation justification for working with fractional allocations: every partition of unity can be implemented by a randomization over feasible deterministic partitions. Moreover, I show that there exists an efficient and envy-free allocation that can be implemented by a lottery with finite support for a broad class of preferences-measures (in particular, atomic).
+
 [Download PDF](papers/cake-cutting.pdf)
+
+## Work in progress
+
+### Almost Marginal Product Allocations
+
+*Abstract*: Does local convergence to quasilinear utility make agents' utility approximately equal to marginal contribution to unweighted social welfare? Not in general: a two-type logarithmic example has a limiting strictly positive gap despite small income effects and equilibrium budget multipliers converging to one. A sufficient condition is that equilibrium and unrestricted welfare-maximizing allocations remain in a common compact interior region on which the utility gradients converge to quasilinear utility gradients. As a main result, I prove a quantitative bound. As a secondary result, I show that growing allocation ranges are acceptable when approximation errors vanish sufficiently fast.
