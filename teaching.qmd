@@ -6,6 +6,4 @@ title: "Teaching"
 
 - **Game Theory (PhD)** — Teaching Assistant
 - **Mathematical Tools (PhD)** — Teaching Assistant
-- **Linear Algebra** — Discussion Section Instructor
-
-*Course dates and additional information can be added from the final CV.*
+- **Intermediate Microeconomics** — Teaching Assistant
