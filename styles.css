@@ -14,6 +14,12 @@ main.content { max-width: 890px; margin: 0 auto; padding: 1.5rem 1rem 4rem; }
 .hero h1 { margin: .5rem 0 1.1rem; }
 .hero-copy p { max-width: 37rem; }
 .eyebrow { font-size: .76rem; letter-spacing: .15em; color: var(--muted); font-weight: 700; }
-.hero-image img { width: 100%; aspect-ratio: 4/5; object-fit: cover; border-radius: 3px; }
+.hero-image img {
+  width: 100%;
+  aspect-ratio: 4/5;
+  object-fit: cover;
+  object-position: 65% center;
+  border-radius: 3px;
+}
 .primary-link { font-weight: 700; }
 @media (max-width: 720px) { .hero { grid-template-columns: 1fr; gap: 1.5rem; padding-top: 1.5rem; } .hero-image { grid-row: 1; max-width: 230px; } }
