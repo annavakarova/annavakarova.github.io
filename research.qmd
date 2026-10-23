@@ -22,7 +22,9 @@ Third, I combine the infinite-dimensional existence result with the finite-dimen
 
 *Abstract*: We prove existence of envy-free and Pareto efficient allocation in a multi-period indivisible goods assignment problem. Since Birkoff-von-Neumann fails in this environment, the allocation problem cannot be reduced to individual-level consumption problem where total demand cannot exceed supply. Therefore, we have to treat economy-wide allocations as a public good. We provide a market-based implementation by showing that such an allocation can be supported as a Lindahl equilibrium. We then look at a large economy and show that for large enough economies, the incentives to misrepresent agents’ preferences vanish.
 
-[Download PDF](papers/house-allocation.pdf)
+<span style="color: #888888;">*Draft coming soon.*</span>
+
+<!--[Download PDF](papers/house-allocation.pdf)-->
 
 ### Implementation in the Cake-Cutting Problem
 
