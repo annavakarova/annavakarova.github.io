@@ -10,7 +10,9 @@ page-layout: full
 **PhD Candidate in Economics**  
 University of California, Berkeley
 
-I am an economist working in microeconomic theory, with research interests in fair division, allocation, and economic theory.
+**I am on the <u>2026–2027</u> academic job market.**
+
+I am an economist working in microeconomic theory, with research interests in fair division and general equilibrium theory.
 
 My job market paper studies the existence and computation of envy-free and efficient allocations in general allocation environments.
 
@@ -23,8 +25,8 @@ My job market paper studies the existence and computation of envy-free and effic
 
 ## Job Market Paper
 
-### Envy-Free and Efficient Allocation in General Environments
+### The Power of Sperner's Lemma in Fair Division
 
-I study the existence of envy-free and weakly Pareto-efficient allocations in general allocation environments, including settings with divisible and indivisible goods. The analysis develops an existence argument based on Sperner's lemma and an algorithmic approach to approximate fair and efficient allocation.
+This paper develops a general approach to fair and efficient division that does not rely on equilibrium existence.
 
 [Read more about my research →](research.qmd)
