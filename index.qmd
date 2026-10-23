@@ -16,7 +16,7 @@ I am an economist working in microeconomic theory, with research interests in fa
 
 My job market paper studies the existence and computation of envy-free and efficient allocations in general allocation environments.
 
-[Research](research.qmd){.primary-link} &nbsp; [Curriculum Vitae](files/cv.pdf) &nbsp; [Email](mailto:anna_vakarova@berkeley.edu)
+[Research](research.qmd){.primary-link} &nbsp; [Curriculum Vitae](files/cv.pdf) &nbsp; [anna_vakarova@berkeley.edu](mailto:anna_vakarova@berkeley.edu)
 :::
 ::: {.hero-image}
 ![](images/VakarovaProfPhoto.jpg){fig-alt="Placeholder for Anna Vakarova's portrait"}
