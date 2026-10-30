@@ -28,7 +28,7 @@ Third, I combine the infinite-dimensional existence result with the finite-dimen
 
 ### Implementation in the Cake-Cutting Problem
 
-*Abstract*: I study the relationship between fractional cake allocations — partitions of unity — and lotteries over deterministic partitions. The project provides an implementation justification for working with fractional allocations: every partition of unity can be implemented by a randomization over feasible deterministic partitions. Moreover, I show that there exists an efficient and envy-free allocation that can be implemented by a lottery with finite support for a broad class of preferences-measures (in particular, atomic).
+*Abstract*: I establish an equivalence between lotteries over deterministic cake partitions and fractional cake allocations—partitions of unity. The former is a common tool for convexifying a set of deterministic allocations, while the latter is an insightful embedding used in mathematical fair division. By proving that these two objects are utility-equivalent, I provide an implementation foundation for a mathematical representation commonly used in fair division. In addition, I show that every simple partition of unity belongs to the convex hull of degenerate partitions of unity, which means it is implementable by a lottery with finite support.
 
 <span style="color: #888888;">*Draft coming soon.*</span>
 
