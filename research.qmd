@@ -14,7 +14,7 @@ Second, the same construction yields a computational counterpart: in finite-dime
 Third, I combine the infinite-dimensional existence result with the finite-dimensional algorithm to allocate fairly, efficiently, and dynamically. The problem of fairness and efficiency of dynamic allocations arises in transportation, infrastructure, natural-resource management, computing, and has been extensively studied in computer science and engineering. Yet these problems cannot be tackled by present-day economic fair-division techniques. I approximate infinite-horizon environments by increasingly rich finite-dimensional truncations and apply the algorithm to each truncation. The approximation error separates into an algorithmic component and a truncation component, which can be controlled independently. Because the computational cost grows polynomially with the finite-dimensional problem size for a fixed number of agents, this approximation scheme remains computationally meaningful as the horizon expands. Applications include transportation capacity, renewable-resource extraction rights, and computing capacity.
 
 **Paper:** [Download PDF](papers/jmp.pdf)  
-**Slides:** Link coming soon.
+**Slides:** [Download PDF](files/jmp-slides.pdf)
 
 ## Working Papers
 
