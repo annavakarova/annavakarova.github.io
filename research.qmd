@@ -5,7 +5,7 @@ title: "Research"
 
 ## Job Market Paper
 
-### Envy-Free and Efficient Allocation in General Environments
+### The Power of Sperner's Lemma in Fair Division
 
 *Abstract*: This paper develops a general approach to fair and efficient division that does not rely on equilibrium existence. First, I show that when the set of feasible allocations is compact, convex, and invariant to permutations of agents, and utilities are continuous and concave, there exists an allocation that is envy-free and weak Pareto efficient. The result applies to both problems with divisible resources and to indivisible-resource problems after appropriate convexification. In particular, it applies to problems with infinite-dimensional allocation spaces. The proof searches over Pareto weights and uses a regularized weighted welfare problem together with Sperner's lemma to identify weights at which all agents are simultaneously envy-free.
 
