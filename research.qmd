@@ -22,9 +22,9 @@ Third, I combine the infinite-dimensional existence result with the finite-dimen
 
 *Abstract*: We consider the fair and efficient random assignment of indivisible goods subject to resource constraints. Agents receive bundles randomly, but individual lotteries over bundles that are feasible in expectation need not be jointly feasible. Consequently, we treat a lottery over feasible allocations as a public good. We show that every feasible finite economy admits an envy-free and Pareto efficient random assignment that may be supported as a Lindahl equilibrium. For a finite type space with specified expected utilities, we construct a mechanism whose outcomes are exactly feasible and Pareto efficient with respect to reported preferences. As the population grows and empirical type proportions and per-capita resources approach a limiting large economy, envy and gains from manipulation vanish. The approximate incentive compatibility of the mechanism holds for all type profiles that approximate the limiting economy. The argument combines sensitivity bounds for linear programs with proximity bounds between fractional and integer optima.
 
-<span style="color: #888888;">*Draft coming soon.*</span>
+<!--<span style="color: #888888;">*Draft coming soon.*</span>-->
 
-<!--[Download PDF](papers/house-allocation.pdf)-->
+[Download PDF](papers/house-allocation.pdf)
 
 ### Implementation in the Cake-Cutting Problem
 
